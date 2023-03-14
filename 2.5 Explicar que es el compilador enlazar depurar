@@ -1,0 +1,54 @@
+1 password
+2 passwd
+3 logout
+4 bash -c "$(curl -fsSL https://gef.blah.cat/sh)"
+5 gdb
+6 logout
+7 lout
+8 logout
+9 pwd
+10 man
+11 nano hola,cs
+12 man pwd
+13 clear
+14 nano hola.s
+15 ls
+16 nano hola.s
+17 start
+18 load hola
+19 as -o hola.o hola.s
+20 ld -o hola hola.o
+21 nano hola.s
+22 as -o hola.o hola.s
+23 nano hola.s
+24 as -o hola.o hola.s
+25 ld -o hola hola.o
+26 ./hola
+27 nano hola.s
+28 as -o hola.o hola.s
+29 ld -o hola hola.o
+30 ./hola
+31 as
+32 nano first.s
+33 cat primero.s
+34 nano first.s
+35 cat primero.s
+36 cat > first.s
+37 nano first.s
+38 as -o primero.o primero.s
+39 as -o first.o first.s
+40 nano first.s
+41 cat primero.s
+42 as -o primero.o primero.s
+43 gcc -o primero primero.o
+44 ./primero | echo $?
+45 gcc -o primero primero.o
+46 as -o primero.o primero.s
+47 gcc -o primero primero.o
+48 ./primero | echo $?
+
+49 ls
+50 gdb -q
+51 ./primero | echo $?
+52 gdb -q primero
+53 history
